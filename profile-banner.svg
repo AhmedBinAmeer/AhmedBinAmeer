@@ -1,0 +1,50 @@
+<svg width="1280" height="360" viewBox="0 0 1280 360" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1280" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.52" stop-color="#101B3D"/>
+      <stop offset="1" stop-color="#23104A"/>
+      <animate attributeName="x1" values="0;120;0" dur="12s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="160" y1="50" x2="1100" y2="310" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.5" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#E879F9"/>
+    </linearGradient>
+    <filter id="glow" x="-100%" y="-100%" width="300%" height="300%">
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#94A3B8" stroke-opacity="0.09"/>
+    </pattern>
+  </defs>
+  <rect width="1280" height="360" rx="24" fill="url(#bg)"/>
+  <rect width="1280" height="360" rx="24" fill="url(#grid)"/>
+  <circle cx="1080" cy="48" r="150" fill="#38BDF8" fill-opacity="0.10" filter="url(#glow)">
+    <animate attributeName="r" values="140;175;140" dur="7s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="1130" cy="300" r="170" fill="#E879F9" fill-opacity="0.10" filter="url(#glow)">
+    <animate attributeName="r" values="170;135;170" dur="9s" repeatCount="indefinite"/>
+  </circle>
+  <path d="M0 292C190 210 280 344 460 276C640 208 690 126 850 174C1020 225 1060 320 1280 232" stroke="url(#accent)" stroke-opacity="0.42" stroke-width="2" fill="none" stroke-dasharray="10 14">
+    <animate attributeName="stroke-dashoffset" from="0" to="-240" dur="8s" repeatCount="indefinite"/>
+  </path>
+  <g opacity="0.72" fill="url(#accent)">
+    <circle cx="925" cy="82" r="3"><animate attributeName="cy" values="82;60;82" dur="4s" repeatCount="indefinite"/></circle>
+    <circle cx="1000" cy="146" r="4"><animate attributeName="cy" values="146;170;146" dur="5s" repeatCount="indefinite"/></circle>
+    <circle cx="1160" cy="102" r="3"><animate attributeName="cy" values="102;78;102" dur="4.5s" repeatCount="indefinite"/></circle>
+    <circle cx="1080" cy="242" r="3"><animate attributeName="cy" values="242;218;242" dur="6s" repeatCount="indefinite"/></circle>
+  </g>
+  <g fill="#F8FAFC" font-family="Inter,Segoe UI,Arial,sans-serif">
+    <text x="86" y="144" font-size="22" letter-spacing="5" fill="#93C5FD">AHMED BIN AMEER</text>
+    <text x="82" y="205" font-size="58" font-weight="700">Ahmed Faraz</text>
+    <text x="86" y="246" font-size="22" fill="#CBD5E1">Software Developer  •  Full-Stack Builder  •  Problem Solver</text>
+    <text x="86" y="294" font-size="16" fill="#94A3B8">Building useful software with clarity, curiosity, and purpose.</text>
+  </g>
+  <g transform="translate(1070 148)" stroke="url(#accent)" stroke-width="3" fill="none" opacity="0.88">
+    <rect x="0" y="0" width="92" height="72" rx="12"/>
+    <path d="M20 24L34 36L20 48M43 50H70" stroke-linecap="round" stroke-linejoin="round"/>
+    <animateTransform attributeName="transform" type="rotate" values="0 46 36;4 46 36;0 46 36;-4 46 36;0 46 36" dur="8s" repeatCount="indefinite"/>
+  </g>
+</svg>
