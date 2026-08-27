@@ -7,6 +7,7 @@
 <p>
   <a href="https://github.com/AhmedBinAmeer">GitHub</a> •
   <a href="https://irofficial.com">Website</a> •
+  <a href="https://www.linkedin.com/in/ahmedbinameer">LinkedIn</a> •
   <a href="mailto:farazameer622@gmail.com">Email</a>
 </p>
 
