@@ -33,8 +33,6 @@ My approach is simple: stay curious, build with purpose, and keep improving ever
 
 ## My Digital Space
 
-<a href="https://github.com/AhmedBinAmeer"><img src="https://github-readme-stats.vercel.app/api?username=AhmedBinAmeer&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=BC8CFF&text_color=C9D1D9&rank_icon=github" height="165" alt="Ahmed Faraz's GitHub statistics"></a>
-<a href="https://github.com/AhmedBinAmeer"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedBinAmeer&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="165" alt="Ahmed Faraz's most used languages"></a>
 
 <br><br>
 
