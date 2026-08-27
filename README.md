@@ -11,7 +11,7 @@
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=700&color=67E8F9&center=true&vCenter=true&width=650&lines=Welcome+to+my+little+corner+of+the+internet;Student+life+%E2%80%A2+Ideas+%E2%80%A2+Experiments+%E2%80%A2+Growth;Currently+turning+curiosity+into+creation+%E2%9C%A8" alt="Animated student introduction" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=700&color=67E8F9&center=true&vCenter=true&width=650&lines=Welcome+to+my+little+corner+of+the+internet;Merging+Scholarship+with+Creativity;Student+life+%E2%80%A2+Ideas+%E2%80%A2+Experiments+%E2%80%A2+Growth" alt="Animated student introduction" />
 
 </div>
 
@@ -25,7 +25,7 @@
 
 I’m a **university student at Air University** from **Multan, Pakistan**.
 
-I’m curious about how ideas become real things. I enjoy learning through experiments, exploring new concepts, and creating projects that make the learning process meaningful.
+I’m curious about how ideas become meaningful things. I enjoy learning through exploration, connecting ideas, and merging scholarship with creativity.
 
 </td>
 <td width="45%" valign="top" align="center">
@@ -75,6 +75,6 @@ I’m curious about how ideas become real things. I enjoy learning through exper
 
 <br><br>
 
-<sub>Thanks for stopping by. There’s always something new to discover.</sub>
+<sub>Merging scholarship with creativity, one idea at a time.</sub>
 
 </div>
