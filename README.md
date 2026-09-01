@@ -17,7 +17,7 @@
 
 ## Hello, I’m Ahmed
 
-I’m a software developer from **Multan, Pakistan**, working with **Air University**. I enjoy transforming ideas into practical, user-focused software with clean interfaces and dependable functionality.
+I’m a CS Student from **Pakistan**, Studying in **Air University**. I enjoy transforming ideas into practical, user-focused software with clean interfaces and dependable functionality.
 
 My approach is simple: stay curious, build with purpose, and keep improving every day.
 
